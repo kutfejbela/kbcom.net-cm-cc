@@ -9,7 +9,7 @@ Central Management - Certifications, Credetials
 - System management
 
 ## Modules
-Modules for credential creation.
+Modules for credential creation that not part of CM-CC (Samba, MySQL, MariaDB, PostgreSQL, etc.).
 
 ## Certifications
 Create and revoke certifications.
