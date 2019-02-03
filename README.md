@@ -1,7 +1,7 @@
 # kbcom.net-cm-cc API
 Central Management - Certifications, Credetials
 
-**For group creation and permission settings user cm-gw (groupware) and cm-cma (config manager)**
+>**For group creation and permission settings user cm-gw (groupware) and cm-cma (config manager)**
 
 - Modules
 - Certifications
